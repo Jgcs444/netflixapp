@@ -1,4 +1,4 @@
-package com.fcrysthian.netflixremake
+package com.jgcs.netflixremake
 
 import org.junit.Test
 
